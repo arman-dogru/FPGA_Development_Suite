@@ -7,7 +7,7 @@ The FPGA Development Suite is a comprehensive set of tools designed for FPGA dev
 To install the FPGA Development Suite, run the following commands:
 
 ```bash
-git clone https://github.com/your-repo/fpga-development-suite.git
+git clone https://github.com/arman-dogru/FPGA_Development_Suite.git
 cd fpga-development-suite
 pip install -r requirements.txt
 python setup.py install
