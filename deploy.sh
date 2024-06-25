@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # Package the application
 echo "Packaging FPGA Development Suite..."
