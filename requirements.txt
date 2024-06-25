@@ -1,4 +1,5 @@
 PyQt5
+sip
 pyverilog
 vunit_hdl
 intel_fpga_ai
