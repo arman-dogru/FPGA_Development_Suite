@@ -56,4 +56,8 @@ If you encounter any issues, please refer to the following steps:
 We welcome contributions to the FPGA Development Suite. Please fork the repository and create a pull request with your changes.
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+This project is licensed under the MIT License. See the LICENSE file for details.
+>>>>>>> 6dd95234debfb2c14fda2d25454901024543e5c1
