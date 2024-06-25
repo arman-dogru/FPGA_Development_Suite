@@ -8,7 +8,6 @@ setup(
         'PyQt5',  # For GUI development
         'pyverilog',  # For Verilog parsing and analysis
         'vunit_hdl',  # For VHDL and Verilog unit testing
-        'intel_fpga_ai',  # Integration with Intel FPGA AI Suite
         'pyopencl',  # For OpenCL integration
     ],
     entry_points={
