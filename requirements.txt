@@ -1,5 +1,5 @@
 PyQt5==5.15.7
 pyverilog==1.3.0
-vunit_hdl==4.5.1
+vunit_hdl==4.0.0
 intel_fpga_ai==0.1.0
 pyopencl==2021.2.8
