@@ -7,10 +7,7 @@ pyenv global 3.8.12
 # Upgrade pip and setuptools
 pip install --upgrade pip setuptools
 
-# Install SIP manually
-pip install sip==6.6.2
-
-# Install the other dependencies
+# Install dependencies from requirements.txt
 pip install -r requirements.txt
 
 # Package the application

@@ -1,6 +1,6 @@
-PyQt5
-sip
-pyverilog
-vunit_hdl
-intel_fpga_ai
-pyopencl
+PyQt5==5.15.7
+sip==6.6.2
+pyverilog==1.3.0
+vunit_hdl==4.5.1
+intel_fpga_ai==1.0.0  # Replace with the actual version if available
+pyopencl==2021.2.8
